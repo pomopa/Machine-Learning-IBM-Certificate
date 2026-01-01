@@ -6,4 +6,4 @@ This repository showcases the hands-on labs i developed as part of the Machine L
 ## 🧩 Technologies Used
 - **Jupyter Notebook** 
 - **Python 3**
-- **Python Libraries, among them: Pandas**
+- **Python Libraries, among them: Pandas, Numpy and scikit-learn**
